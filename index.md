@@ -3,3 +3,6 @@
 ``` C
 int a = 3;
 ```
+- [ ] Figure out world peace
+- [X] Eat breakfast
+- [ ] Successfully center a div
